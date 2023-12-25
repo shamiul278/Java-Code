@@ -1,0 +1,24 @@
+#Removed! BookID : user
+#Removed! BookName : user
+#Removed! Author : vuser
+#Removed! Genre : user
+#Removed! Quantity : 21
+===============================================
+#Removed! BookID : ad
+#Removed! BookName : ada
+#Removed! Author : ad
+#Removed! Genre : ad
+#Removed! Quantity : 9
+===============================================
+#Removed! BookID : 22
+#Removed! BookName : 22
+#Removed! Author : 22
+#Removed! Genre : 22
+#Removed! Quantity : 22
+===============================================
+BookID : das
+BookName : dsa
+Author : das
+Genre : asdsa
+Quantity : 5
+===============================================
